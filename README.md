@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Taskia, a Computer Science and Engineering student at BRAC University with a passion for cybersecurity, HCI research with an aim to build technology that improves usability and trust.<br><br>🔐 I’m deeply interested in the intersection of human-computer interaction and security, exploring how design impacts user behavior in secure systems.<br><br>🧠 I also love diving into CTF competitions, learning exploit techniques, reverse engineering, digital forensics, cryptography, and real-world defense strategies. When I’m not capturing flags, I’m trying to learn how to design better systems using usability principles and data-driven insights.<br><br>🚀 What I'm Working On<br>🧪 Researching usability challenges in cybercrime reporting platforms<br>💡 Exploring privacy-focused, user-friendly system designs<br>🏁 Participating in national and international CTFs<br><br><br><br><br><br>
+Hey there! I'm Taskia, a Computer Science and Engineering student at BRAC University with a passion for cybersecurity, HCI research with an aim to build technology that improves usability and trust.<br><br>🔐 I’m deeply interested in the intersection of human-computer interaction and security, exploring how design impacts user behavior in secure systems.<br><br>🧠 I also love diving into CTF competitions, learning exploit techniques, reverse engineering, digital forensics, cryptography, and real-world defense strategies. When I’m not capturing flags, I’m trying to learn how to design better systems using usability principles and data-driven insights.<br><br>🚀 What I'm Working On<br>🧪 Researching usability challenges in cybercrime reporting platforms<br>💡 Exploring privacy-focused, user-friendly system designs<br>🏁 Participating in national and international CTFs
 
 
 ## 🌐 Socials:
@@ -16,6 +16,8 @@ Hey there! I'm Taskia, a Computer Science and Engineering student at BRAC Univer
 ![](https://github-profile-trophy.vercel.app/?username=taskiarf&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=taskiarf&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=taskiarf&icon=0&color=9)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
