@@ -26,9 +26,9 @@ Hey there! I'm Taskia, a Junior Cybersecurity Engineer at SecuWall Technologies 
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=taskiarf&theme=tokyonight&layout=compact&count_private=true" alt="Top Languages" />
 </p>
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph:
 <p align="left">
-  <img src="https://trophies.demolab.com/?username=taskiarf&theme=tokyonight&no-frame=false&margin_w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taskiarf&theme=tokyo-night&hide_border=false" alt="Activity Graph" />
 </p>
 
 ---
