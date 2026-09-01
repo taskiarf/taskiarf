@@ -10,7 +10,9 @@ Hey there! I'm Taskia, a Junior Cybersecurity Engineer at SecuWall Technologies 
 
 🚀 What I'm Working On:
 🛡️ Threat detection engineering, SIEM/XDR deployments, and CTI sharing (MISP)
+
 🧪 Researching usable security, privacy-focused system designs, and threat detection
+
 🚩 Practicing VAPT, offensive techniques, and playing CTFs
 
 
