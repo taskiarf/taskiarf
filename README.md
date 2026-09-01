@@ -21,14 +21,14 @@ Hey there! I'm Taskia, a Junior Cybersecurity Engineer at SecuWall Technologies 
 
 # 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=taskiarf&theme=tokyonight&show_icons=true&count_private=true&t=1" alt="Taskia's GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taskiarf&theme=tokyonight&t=1" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taskiarf&theme=tokyonight&layout=compact&count_private=true&t=1" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=taskiarf&theme=tokyonight&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=taskiarf&show_icons=true&theme=tokyonight&count_private=true" alt="Taskia's GitHub Stats" /><br/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=taskiarf&theme=tokyonight&layout=compact&count_private=true" alt="Top Languages" />
 </p>
 
 ## 🏆 GitHub Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=taskiarf&theme=tokyonight&no-frame=false&margin_w=4" alt="GitHub Trophies" />
+  <img src="https://trophies.demolab.com/?username=taskiarf&theme=tokyonight&no-frame=false&margin_w=4" alt="GitHub Trophies" />
 </p>
 
 ---
