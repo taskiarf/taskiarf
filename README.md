@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hey there! I'm Taskia, a Junior Cybersecurity Engineer at SecuWall and a CS graduate from BRAC University, passionate about defensive security, purple teaming, and usable security research.
+Hey there! I'm Taskia, a Junior Cybersecurity Engineer at SecuWall Technologies Limited and a CS graduate from BRAC University, passionate about defensive security, purple teaming, and usable security research.
 
 🛡️ My day-to-day work centers on SOC operations, threat intelligence, and enterprise defensive engineering deploying SIEM/XDR pipelines, next-gen firewalls, and CTI platforms.
 
