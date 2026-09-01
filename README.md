@@ -9,6 +9,7 @@ Hey there! I'm Taskia, a Junior Cybersecurity Engineer at SecuWall Technologies 
 🔓 Alongside industry operations, my research interests center on Human-Computer Interaction (HCI), Usable Security & Privacy. I am passionate about making security systems more intuitive and accessible for end-users, alongside exploring approaches for detecting evolving cyber threats.
 
 🚀 What I'm Working On:
+
 🛡️ Threat detection engineering, SIEM/XDR deployments, and CTI sharing (MISP)
 
 🧪 Researching usable security, privacy-focused system designs, and threat detection
