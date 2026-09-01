@@ -1,5 +1,17 @@
 # 💫 About Me:
-Hey there! I'm Taskia, a Computer Science and Engineering student at BRAC University with a passion for cybersecurity, HCI research and an aim to build technology that improves usability and trust.<br><br>🔐 I’m deeply interested in the intersection of human-computer interaction and security, exploring how design impacts user behavior in secure systems.<br><br>🧠 I also love diving into CTF competitions, learning exploit techniques, reverse engineering, digital forensics, cryptography, and real-world defense strategies. When I’m not capturing flags, I’m trying to learn how to design better systems using usability principles and data-driven insights.<br><br>🚀 What I'm Working On<br>🧪 Researching usability challenges in cybercrime reporting platforms<br>💡 Exploring privacy-focused, user-friendly system designs<br>🏁 Participating in national and international CTFs
+
+Hey there! I'm Taskia, a Junior Cybersecurity Engineer at SecuWall and a CS graduate from BRAC University, passionate about defensive security, purple teaming, and usable security research.
+
+🛡️ My day-to-day work centers on SOC operations, threat intelligence, and enterprise defensive engineering deploying SIEM/XDR pipelines, next-gen firewalls, and CTI platforms.
+
+🧠 Driven by a purple teaming mindset, I actively dive into VAPT, CTF competitions, and exploit techniques to understand adversary behavior and translate offensive insights into stronger defenses.
+
+🔓 Alongside industry operations, my research interests center on Human-Computer Interaction (HCI), Usable Security & Privacy. I am passionate about making security systems more intuitive and accessible for end-users, alongside exploring approaches for detecting evolving cyber threats.
+
+🚀 What I'm Working On:
+🛡️ Threat detection engineering, SIEM/XDR deployments, and CTI sharing (MISP)
+🧪 Researching usable security, privacy-focused system designs, and threat detection
+🚩 Practicing VAPT, offensive techniques, and playing CTFs
 
 
 ## 🌐 Socials:
